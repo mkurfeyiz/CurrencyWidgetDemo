@@ -1,0 +1,2 @@
+# CurrencyWidgetDemo
+Currency Widget Demo
